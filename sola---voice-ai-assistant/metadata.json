@@ -1,0 +1,7 @@
+{
+  "name": "Sola - Voice AI Assistant",
+  "description": "A conversational AI agent using Gemini Live API. Sola helps you find salons and book appointments in Chennai Tanglish.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
